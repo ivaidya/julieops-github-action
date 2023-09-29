@@ -19,8 +19,4 @@
 #    --version                        Prints useful version information.
 ###
 
-julie-ops-cli.sh  \
-    --dryRun \
-    --brokers $1 \
-    --topology $2 \
-    --clientConfig $3
+julie-ops-cli.sh  --help
