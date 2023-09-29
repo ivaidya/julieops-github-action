@@ -20,6 +20,7 @@
 ###
 
 julie-ops-cli.sh  \
+    --dryRun \
     --brokers $1 \
     --topology $2 \
     --clientConfig $3
