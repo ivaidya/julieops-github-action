@@ -19,4 +19,4 @@
 #    --version                        Prints useful version information.
 ###
 
-julie-ops-cli.sh  --help
+julie-ops-cli.sh  --dryRun
